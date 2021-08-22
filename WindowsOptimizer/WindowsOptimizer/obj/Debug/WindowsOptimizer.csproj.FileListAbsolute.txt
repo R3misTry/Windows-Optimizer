@@ -1,0 +1,10 @@
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe.config
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.pdb
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.csprojAssemblyReference.cache
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.Form1.resources
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.Properties.Resources.resources
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.csproj.GenerateResource.cache
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.exe
+C:\Users\merts\source\repos\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.pdb
