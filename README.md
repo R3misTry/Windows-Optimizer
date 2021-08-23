@@ -1,6 +1,6 @@
 # Windows-Optimizer
 
-## ⚠️ You need to run the application as administrator
+### ⚠️You need to run the application as administrator
 
 Basic windows optimizer deleting temp, prefetch and %temp% files.
 
